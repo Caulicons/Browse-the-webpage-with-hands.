@@ -2,12 +2,12 @@
 
 This project was created following the orientation of dear [Erick Wendel](https://github.com/ErickWendel), in his classes of "Semana Javascript Expert" edition 7.0 which is a week to learn hard skills of Javascript/Node creating a nice project like this.
 
-## acquired knowledge
+## Acquired knowledge
 
-✅ Learn that a can I use machine learning with javascript using libs google like, [TensoFlow.JS](https://www.tensorflow.org/js).
-✅ Use [Web Works](https://developer.mozilla.org/en-US/docs/Web/API/Worker/Worker), to run heavy code logic in the background without crashing the screen. Heavy code logic like machine learning on web, recognize hands and blinks in real time. 
-✅ Use pre-trained models from Google to detection things like hands and face. 
-✅ Request the camera of the user media.
+- ✅ Learn that a can I use machine learning with javascript using libs google like, [TensoFlow.JS](https://www.tensorflow.org/js).
+- ✅ Use [Web Works](https://developer.mozilla.org/en-US/docs/Web/API/Worker/Worker), to run heavy code logic in the background without crashing the screen. Heavy code logic like machine learning on web, recognize hands and blinks in real time. 
+- ✅ Use pre-trained models from Google to detection things like hands and face. 
+- ✅ Request the camera of the user media.
 
 ## Preview
 <img width=100% src="./src/assets/demo.gif">
